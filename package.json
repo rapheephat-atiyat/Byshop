@@ -1,0 +1,23 @@
+{
+  "name": "byshop",
+  "version": "1.0.0",
+  "description": "This bot created by rapheephat.atiyat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^6.17.1",
+    "console-log-colors": "^0.5.0",
+    "discord.js": "^14.23.2",
+    "fs": "^0.0.1-security",
+    "node-cron": "^4.2.1"
+  },
+  "devDependencies": {
+    "prisma": "^6.17.1"
+  }
+}
